@@ -7,7 +7,7 @@ val v = new {
   val reactJS = "16.8.6"
 }
 
-name := "scalajs-react-template"
+name := "hanamura"
 version := v.app
 scalaVersion := v.scala
 
